@@ -9,6 +9,7 @@ Manually capture DOM elements.
 Write logic to update those elements whenever the data changes.
 
 Problem:
+
 Manual DOM Manipulation: You have to find and update the DOM elements manually.
 Complexity Increases: As the app grows, this becomes harder to manage, debug, and scale.
 -------------------------------------------------------------------------------------------------
